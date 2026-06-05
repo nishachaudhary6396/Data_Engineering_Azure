@@ -1,0 +1,1 @@
+CREATE DATABASE Multi_Tenant_Event_Analytics_System;
